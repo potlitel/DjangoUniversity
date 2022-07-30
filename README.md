@@ -189,6 +189,8 @@ List of resources I find helpful and would like to give credit to. I've included
 
 * [Construye una aplicación web en Django en 15 minutos](https://www.youtube.com/watch?v=hKXn7Sub-QU)
 * [Django 1.8 AttributeError: module has no attribute 'urls'](https://stackoverflow.com/questions/34037593/django-1-8-attributeerror-module-has-no-attribute-urls)
+* [How do you join two tables on a foreign key field using django ORM?](https://stackoverflow.com/questions/13092268/how-do-you-join-two-tables-on-a-foreign-key-field-using-django-orm)
+* [Entity Relationship Diagram: School Database (Updated)](https://www.youtube.com/watch?v=W7fHUXQHE_I)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
