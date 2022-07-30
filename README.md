@@ -191,6 +191,16 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Django 1.8 AttributeError: module has no attribute 'urls'](https://stackoverflow.com/questions/34037593/django-1-8-attributeerror-module-has-no-attribute-urls)
 * [How do you join two tables on a foreign key field using django ORM?](https://stackoverflow.com/questions/13092268/how-do-you-join-two-tables-on-a-foreign-key-field-using-django-orm)
 * [Entity Relationship Diagram: School Database (Updated)](https://www.youtube.com/watch?v=W7fHUXQHE_I)
+* [How to Integrate Django-Tailwind Styling in an Application](https://www.section.io/engineering-education/how-to-integrate-django-tailwind-styling-in-an-application/)
+* [error executing "manage.py tailwind start"](https://github.com/timonweb/django-tailwind/issues/8)
+* [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind#quick-start)
+* [Django-Tailwind: Installation Step-by-step instructions](https://django-tailwind.readthedocs.io/en/latest/installation.html)
+
+
+https://ordinarycoders.com/blog/article/django-tailwind
+https://www.reddit.com/r/djangolearning/comments/s7chy0/problem_with_finding_npm_while_trying_to_install/
+https://stackoverflow.com/questions/33819757/global-npm-install-location-on-windows
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
